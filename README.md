@@ -19,7 +19,7 @@ Os usuários devem ser capazes de:
  * Trazendo boas praticas com o Block Element Modifier (BEM)
 
 ### Design desktop:
-
+![desktop-design](https://user-images.githubusercontent.com/96561261/185643420-7cf67614-d751-42c0-94fd-275e386e4227.jpg)
 ### Design mobile:
 
 ### Design status ativo:
