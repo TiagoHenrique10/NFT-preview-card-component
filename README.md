@@ -21,5 +21,5 @@ Os usuários devem ser capazes de:
 ### Design desktop:
 ![desktop-design](https://user-images.githubusercontent.com/96561261/185643420-7cf67614-d751-42c0-94fd-275e386e4227.jpg)
 ### Design mobile:
-
+![mobile-design](https://user-images.githubusercontent.com/96561261/185643534-0255fd52-8cd7-423f-aa8d-5b06cf95a876.jpg)
 ### Design status ativo:
