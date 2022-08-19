@@ -23,3 +23,4 @@ Os usuários devem ser capazes de:
 ### Design mobile:
 ![mobile-design](https://user-images.githubusercontent.com/96561261/185643534-0255fd52-8cd7-423f-aa8d-5b06cf95a876.jpg)
 ### Design status ativo:
+![active-states](https://user-images.githubusercontent.com/96561261/185643715-1be81a79-aaba-426b-bff4-ad02461671ee.jpg)
